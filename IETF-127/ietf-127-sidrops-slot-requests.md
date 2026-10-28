@@ -28,3 +28,11 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: community feedback / call for WG adoption
 - Abstract: Discussion on the concept of using mixed signing algorithm certificate chains in the RPKI. Permitting a second (widely supported) signing algorithm in the RPKI allows for smaller signatures in the short term and gaining operational experience towards PQ transitions in the long term.   
 - Datatracker link: To be posted
+
+#### Post-Quantum Cryptography for the RPKI
+
+- Speaker: Tomoki Yoshikawa
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: Community feedback / call for WG adoption
+- Abstract: This draft investigates the use of post-quantum cryptography in the RPKI, covering experimental implementations, performance evaluations, and migration considerations. The presentation will summarize the updates in -03 and seek community feedback on the document's direction and WG adoption.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-yoshikawa-sidrops-pqc-rpki/
